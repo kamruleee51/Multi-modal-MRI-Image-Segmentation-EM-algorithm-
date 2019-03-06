@@ -1,0 +1,2 @@
+# Multi-modal-MRI-Image-Segmentation-EM-algorithm-
+The problem definition is to implement from scratch the algorithm of Expectation Maximization using Matlab. This algorithm has been applied on brain images (T1 and FLAIR). Three regions have to be segmented, the cerebrospinal fluid (CSF), the gray matter (GM), and the white matter (WM). All the equations used were taken from MISA course slides, see in report.
